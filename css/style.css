@@ -1371,3 +1371,6 @@ header label {
 .post-content pre .javascript .function {
   color: #8959a8;
 }
+body {
+  font-size: 17px /* 设置全局字体大小 */;
+}
