@@ -40,3 +40,10 @@
   text-align: center;
   line-height: 4rem;
 }
+body {
+  font-size: 17px /* 设置全局字体大小 */;
+  background-image: url("../back.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
