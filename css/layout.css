@@ -40,9 +40,3 @@
   text-align: center;
   line-height: 4rem;
 }
-body {
-  background-image: url("../back.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
