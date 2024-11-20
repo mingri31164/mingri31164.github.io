@@ -21,11 +21,6 @@ body {
   background-color: $light-background-color;
   color: $light-font-color;
   transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
-  font-size: 17px /* 设置全局字体大小 */;
-  background-image: url("../back.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 body:before {
   content: "";
